@@ -1,0 +1,10 @@
+pierwsza linijka master
+druga linijka master
+trzecia linijka master
+czwarta linijka master
+piąta linijka master
+szósta linijka master
+siódma linijka master
+ósma linijka master
+dziewiąta linijka master
+dziesiąta linijka master
