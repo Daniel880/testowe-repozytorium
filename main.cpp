@@ -1,6 +1,6 @@
 pierwsza linijka master
 druga linijka branch1
-trzecia linijka master
+trzecia linijka master2
 czwarta linijka master
 piąta linijka branch2
 szósta linijka master
