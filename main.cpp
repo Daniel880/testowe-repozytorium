@@ -1,1 +1,2 @@
-pierwsza wersja programu
+druga wersja  programu
+
