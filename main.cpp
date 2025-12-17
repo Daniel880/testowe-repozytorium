@@ -1,2 +1,0 @@
-druga wersja  programu
-
