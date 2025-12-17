@@ -2,7 +2,7 @@ pierwsza linijka master
 druga linijka master
 trzecia linijka master
 czwarta linijka master
-piąta linijka master
+piąta linijka branch2
 szósta linijka master
 siódma linijka master
 ósma linijka master
