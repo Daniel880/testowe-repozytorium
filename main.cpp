@@ -1,5 +1,6 @@
 #include <iostream>
 
+
 pierwsza linijka master
 druga linijka branch1
 trzecia linijka master2
