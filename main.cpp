@@ -1,5 +1,5 @@
 pierwsza linijka master
-druga linijka master
+druga linijka branch1
 trzecia linijka master
 czwarta linijka master
 piąta linijka master
